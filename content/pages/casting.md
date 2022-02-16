@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Casting
 uid: dd3c6013-b987-e7a0-6622-68fb11688a6a
 ---

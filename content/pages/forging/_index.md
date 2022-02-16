@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Forging
 uid: 445d1649-30e4-ad45-780d-dfab67887820
 ---
@@ -14,7 +16,7 @@ The first few sessions are spent orienting students to the forge space, equipmen
 
 {{< anchor "fire" >}}The Fire{{< /anchor >}}
 --------------------------------------------
-{{< image-gallery id="445d1649-30e4-ad45-780d-dfab67887820_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
+{{< image-gallery id="445d1649-30e4-ad45-780d-dfab67887820_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="a4e06a4cb09ba75df8f9baddfe6a4603_001.jpg" data-ngdesc="To light the forge, place a ball of newspaper in the fire pot, light it, turn on the blower, and cover with coal." text="To light the forge, place a ball of newspaper in the fire pot, light it, turn on the blower, and cover with coal." >}}
 {{< image-gallery-item href="28c74aed70c7c858d1b6c53a017e45af_002.jpg" data-ngdesc="Take care not to smother the flames, and/or make sure the airflow is sufficient. As the coal heats up, it will start to offgas. The exhaust should be taken up by the hood, not released into the room, as it contains sulfur dioxide and other hazardous materials. Too much airflow tends to blow the fumes away from the exhaust and into the room." text="Take care not to smother the flames, and/or make sure the airflow is sufficient. As the coal heats up, it will start to offgas. The exhaust should be taken up by the hood, not released into the room, as it contains sulfur dioxide and other hazardous materials. Too much airflow tends to blow the fumes away from the exhaust and into the room." >}}
 {{< image-gallery-item href="3188a39d14a41ea766cd8278c64f1512_003.jpg" data-ngdesc="Eventually, flames should start poking through the coal bed." text="Eventually, flames should start poking through the coal bed." >}}

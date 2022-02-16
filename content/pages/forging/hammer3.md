@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Forging
+parent_type: CourseSection
 parent_uid: 445d1649-30e4-ad45-780d-dfab67887820
 title: hammer3
 uid: 15fc4371-201c-4689-0d66-e89298a16a2e
 ---
 
-{{< image-gallery id="15fc4371-201c-4689-0d66-e89298a16a2e_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
+{{< image-gallery id="15fc4371-201c-4689-0d66-e89298a16a2e_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="d09751e3856e632b1774001294152da7_023.jpg" data-ngdesc="Hammers with wood or bronze heads are used when force needs to be applied without deforming the metal surface." text="Hammers with wood or bronze heads are used when force needs to be applied without deforming the metal surface." >}}
 {{< image-gallery-item href="20ce8ad4b714a65cacff8174ad57b747_024.jpg" data-ngdesc="Hammers with wood or bronze heads are used when force needs to be applied without deforming the metal surface." text="Hammers with wood or bronze heads are used when force needs to be applied without deforming the metal surface." >}}
 {{< image-gallery-item href="7a7f41317a53ce22cbdc67518e1f6d83_025.jpg" data-ngdesc="The soft faces are therefore deformed instead." text="The soft faces are therefore deformed instead." >}}

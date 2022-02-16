@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: b317d232-7cc6-6820-6c4b-6116b31af7bc
 title: bottleopener3
 uid: ce4ff28b-863f-d56a-c718-f0db09ca4d2e
 ---
 
-{{< image-gallery id="ce4ff28b-863f-d56a-c718-f0db09ca4d2e_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
+{{< image-gallery id="ce4ff28b-863f-d56a-c718-f0db09ca4d2e_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="0e32ddf69a4e57a889c9e18fc1a83bdc_068.jpg" data-ngdesc="Form the tab for lifting the cap using a blunt punch, pushing the metal towards the hole." text="Form the tab for lifting the cap using a blunt punch, pushing the metal towards the hole." >}}
 {{< image-gallery-item href="60a176068fdc1eac8ac49ba146b3179d_069.jpg" data-ngdesc="Form the tab for lifting the cap using a blunt punch, pushing the metal towards the hole." text="Form the tab for lifting the cap using a blunt punch, pushing the metal towards the hole." >}}
 {{< image-gallery-item href="054a403d4e6c80cc191b7a0c50771cda_070.jpg" data-ngdesc="Test the result on a bottle to see if anything needs altering or neatening up at this point." text="Test the result on a bottle to see if anything needs altering or neatening up at this point." >}}

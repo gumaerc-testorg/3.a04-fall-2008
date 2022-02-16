@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Forging
+parent_type: CourseSection
 parent_uid: 445d1649-30e4-ad45-780d-dfab67887820
 title: Basic Techniques
 uid: 3807c5fe-7c4b-3699-cc75-8362c356fbe5
 ---
 
-{{< image-gallery id="3807c5fe-7c4b-3699-cc75-8362c356fbe5_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
+{{< image-gallery id="3807c5fe-7c4b-3699-cc75-8362c356fbe5_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="bd157a158a4b9d6009854b789a576c90_027.jpg" data-ngdesc="To demonstrate how metal acts, a chunk of clay is drawn and pointed." text="To demonstrate how metal acts, a chunk of clay is drawn and pointed." >}}
 {{< image-gallery-item href="2b4092a1c27be68877803004f2d8ab79_028.jpg" data-ngdesc="Here, the clay has a taper on one end and a scroll on the other." text="Here, the clay has a taper on one end and a scroll on the other." >}}
 {{</ image-gallery >}}

@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Forging
+parent_type: CourseSection
 parent_uid: 445d1649-30e4-ad45-780d-dfab67887820
 title: Basictechniques2
 uid: efc8a180-179b-085d-1af7-772753423edd
 ---
 
-{{< image-gallery id="efc8a180-179b-085d-1af7-772753423edd_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
+{{< image-gallery id="efc8a180-179b-085d-1af7-772753423edd_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="174605a086bf9675863f2593f458e5f6_030.jpg" data-ngdesc="After drawing a taper, bending it into a corner or scroll is a common next step. Here, the edge of the anvil is used to put a start the bend." text="After drawing a taper, bending it into a corner or scroll is a common next step. Here, the edge of the anvil is used to put a start the bend." >}}
 {{< image-gallery-item href="96a5efdb53c0f432ea6b4d745eba69cd_031.jpg" data-ngdesc="After drawing a taper, bending it into a corner or scroll is a common next step. Here, the edge of the anvil is used to put a start the bend." text="After drawing a taper, bending it into a corner or scroll is a common next step. Here, the edge of the anvil is used to put a start the bend." >}}
 {{< image-gallery-item href="7cb133242b0c5ffb6cb19851f73e5f5d_032.jpg" data-ngdesc="After another heat, the piece is hammered back onto itself." text="After another heat, the piece is hammered back onto itself." >}}
