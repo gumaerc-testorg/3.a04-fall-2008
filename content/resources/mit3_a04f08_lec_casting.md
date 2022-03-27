@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Casting
 parent_type: CourseSection
+parent_uid: dd3c6013-b987-e7a0-6622-68fb11688a6a
 resourcetype: Document
 title: Casting Methods & Practice
 uid: fcead799-8b49-445f-6449-2effd6582d68
