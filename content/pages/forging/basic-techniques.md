@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an introduction to basic techniques used in the
+  blacksmithing lab.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Forging

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an introduction to orient students to the forge
+  space, equipment, safety, and basic blacksmithing techniques used in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Forging
@@ -25,7 +27,7 @@ The first few sessions are spent orienting students to the forge space, equipmen
 {{</ image-gallery >}}
 To light the forge, place a ball of newspaper in the fire pot, light it, turn on the blower, and cover with coal. Take care not to smother the flames, and/or make sure the airflow is sufficient. As the coal heats up, it will start to offgas. The exhaust should be taken up by the hood, not released into the room, as it contains sulfur dioxide and other hazardous materials. Too much airflow tends to blow the fumes away from the exhaust and into the room. Eventually, flames should start poking through the coal bed. From here, you can add more coal, rearrange the coals, and turn the airflow up or down to build a fire of the desired size and temperature.
 
-^ [Back to top]({{< baseurl >}}/pages/forging#top)
+^ {{% resource_link 445d1649-30e4-ad45-780d-dfab67887820 "Back to top" "#top" %}}
 
 {{< anchor "anvil" >}}{{< /anchor >}}The Anvil
 ----------------------------------------------

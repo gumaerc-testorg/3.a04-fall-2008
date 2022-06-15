@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on making and repairing tools used
+  in the blacksmithing lab.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
