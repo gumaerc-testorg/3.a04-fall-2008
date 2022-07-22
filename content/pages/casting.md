@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides and introduction to methods of metal casting, including
+  investment and sand casting.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Casting
 uid: dd3c6013-b987-e7a0-6622-68fb11688a6a
 ---
@@ -12,4 +16,4 @@ Sand casting, in contrast, only requires one replica of the object for the entir
 
 Successful casting depends not only on creating a quality mold, but on having a cavity structure that ensures quick and even metal flow without too much cooling. The sprue and gates should be wide enough to avoid clogging. Reservoirs built into the mold at junctions create hot spots and maintain a clear channel. If the object has any sections that are significantly thinner than the rest, they should be oriented towards the bottom and filled first. As mentioned above, vents to prevent gas from being trapped inside should lead from the top of the mold, or from each sub-section if applicable.
 
-This presentation provides a brief illustrated introduction to metal casting. ([PDF - 5.3MB]({{< baseurl >}}/resources/mit3_a04f08_lec_casting))
+This presentation provides a brief illustrated introduction to metal casting. ({{% resource_link fcead799-8b49-445f-6449-2effd6582d68 "PDF - 5.3MB" %}})
