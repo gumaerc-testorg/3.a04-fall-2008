@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: b317d232-7cc6-6820-6c4b-6116b31af7bc
 title: Pineapple Twist
 uid: 9fb75c21-dbd0-4c14-94f3-43a5fee3aa7b
+weight: 90
 ---
-
 {{< image-gallery id="9fb75c21-dbd0-4c14-94f3-43a5fee3aa7b_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="21b980a23d82226fae12c8a2ef90362f_102.jpg" data-ngdesc="One end of a square bar is twisted and curved, then the other." text="One end of a square bar is twisted and curved, then the other." >}}
 {{< image-gallery-item href="1f0021c88e51b0b070d1625841ea6ccb_103.jpg" data-ngdesc="One end of a square bar is twisted and curved, then the other." text="One end of a square bar is twisted and curved, then the other." >}}

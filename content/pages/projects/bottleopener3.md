@@ -10,8 +10,8 @@ parent_type: CourseSection
 parent_uid: b317d232-7cc6-6820-6c4b-6116b31af7bc
 title: bottleopener3
 uid: ce4ff28b-863f-d56a-c718-f0db09ca4d2e
+weight: 40
 ---
-
 {{< image-gallery id="ce4ff28b-863f-d56a-c718-f0db09ca4d2e_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="0e32ddf69a4e57a889c9e18fc1a83bdc_068.jpg" data-ngdesc="Form the tab for lifting the cap using a blunt punch, pushing the metal towards the hole." text="Form the tab for lifting the cap using a blunt punch, pushing the metal towards the hole." >}}
 {{< image-gallery-item href="60a176068fdc1eac8ac49ba146b3179d_069.jpg" data-ngdesc="Form the tab for lifting the cap using a blunt punch, pushing the metal towards the hole." text="Form the tab for lifting the cap using a blunt punch, pushing the metal towards the hole." >}}
