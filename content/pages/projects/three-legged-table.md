@@ -10,8 +10,8 @@ parent_type: CourseSection
 parent_uid: b317d232-7cc6-6820-6c4b-6116b31af7bc
 title: Three-Legged Table
 uid: a1c3c0a9-d0f0-e9a2-9d6c-6be64d34f407
+weight: 60
 ---
-
 {{< image-gallery id="a1c3c0a9-d0f0-e9a2-9d6c-6be64d34f407_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="35ff57a938d85430145a2481d172c5e1_084.jpg" data-ngdesc="Measuring the legs to define when the curves should begin." text="Measuring the legs to define when the curves should begin." >}}
 {{< image-gallery-item href="11a06e2cb560991fb3a9719ff23cb136_085.jpg" data-ngdesc="Is this a comfortable height?" text="Is this a comfortable height?" >}}

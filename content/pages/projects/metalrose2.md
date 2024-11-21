@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: b317d232-7cc6-6820-6c4b-6116b31af7bc
 title: Metalrose2
 uid: 1c59320e-3f96-d386-d7b3-dbe9fce4309c
+weight: 80
 ---
-
 {{< image-gallery id="1c59320e-3f96-d386-d7b3-dbe9fce4309c_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="5b280af546252e5110017eb2a683a0ac_097.jpg" data-ngdesc="This piece needs to be clamped aggressively, so it doesnt move while details are incised with a cold chisel." text="This piece needs to be clamped aggressively, so it doesnt move while details are incised with a cold chisel." >}}
 {{< image-gallery-item href="397ec4b2e4ec73e9deb711a23de3e78d_098.jpg" data-ngdesc="The finished leaf, with veins." text="The finished leaf, with veins." >}}

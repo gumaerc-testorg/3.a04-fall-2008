@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: b317d232-7cc6-6820-6c4b-6116b31af7bc
 title: Metal Rose
 uid: 26a1950c-1515-392c-d818-8020c0e434fd
+weight: 70
 ---
-
 {{< image-gallery id="26a1950c-1515-392c-d818-8020c0e434fd_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="dd49ef1134b73052bc09b8fd0230e94f_092.jpg" data-ngdesc="Sketching the design helps identify problem areas and estimate how much stock is needed." text="Sketching the design helps identify problem areas and estimate how much stock is needed." >}}
 {{< image-gallery-item href="94a4d3d655e583fd7a5a9690763fcb90_093.jpg" data-ngdesc="Sketching the design helps identify problem areas and estimate how much stock is needed." text="Sketching the design helps identify problem areas and estimate how much stock is needed." >}}

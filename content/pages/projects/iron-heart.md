@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: b317d232-7cc6-6820-6c4b-6116b31af7bc
 title: Iron Heart
 uid: 7694f0c5-1b75-74ae-51d9-16bc0620e127
+weight: 110
 ---
-
 {{< image-gallery id="7694f0c5-1b75-74ae-51d9-16bc0620e127_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="582a5948cf4427f06efa5e0672c057a6_115.jpg" data-ngdesc="To implement this classic brainteaser, measuring the dimensions accurately is important." text="To implement this classic brainteaser, measuring the dimensions accurately is important." >}}
 {{< image-gallery-item href="3b62346745bc5cf2fbe84db9a688ed90_116.jpg" data-ngdesc="A taper is drawn." text="A taper is drawn." >}}

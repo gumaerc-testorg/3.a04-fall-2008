@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: 445d1649-30e4-ad45-780d-dfab67887820
 title: hammer2
 uid: b587239a-4c89-56ee-5c85-efbeca28e8e2
+weight: 50
 ---
-
 {{< image-gallery id="b587239a-4c89-56ee-5c85-efbeca28e8e2_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="82dd3e38150fcc51dd623302aca0242c_014.jpg" data-ngdesc="This cross-peen hammer has a round face at one end, to spread evenly in all directions, and a blunt wedge (peen) on the other, to lengthen the metal in one dimension only." text="This cross-peen hammer has a round face at one end, to spread evenly in all directions, and a blunt wedge (peen) on the other, to lengthen the metal in one dimension only." >}}
 {{< image-gallery-item href="5d4ab656aa876bac97bfaa502ef14544_015.jpg" data-ngdesc="This cross-peen hammer has a round face at one end, to spread evenly in all directions, and a blunt wedge (peen) on the other, to lengthen the metal in one dimension only." text="This cross-peen hammer has a round face at one end, to spread evenly in all directions, and a blunt wedge (peen) on the other, to lengthen the metal in one dimension only." >}}
