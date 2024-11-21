@@ -10,8 +10,8 @@ parent_type: CourseSection
 parent_uid: b317d232-7cc6-6820-6c4b-6116b31af7bc
 title: bottleopener1
 uid: 70d76031-9900-ca61-f5a0-c7a0ad29a4a4
+weight: 20
 ---
-
 {{< image-gallery id="70d76031-9900-ca61-f5a0-c7a0ad29a4a4_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="40ecfab9e332f4a8fed3319194090870_053.jpg" data-ngdesc="Start rounding off the corners at the end, by hammering on them at a 45-degree angle." text="Start rounding off the corners at the end, by hammering on them at a 45-degree angle." >}}
 {{< image-gallery-item href="c1771a4090bcbd4e570196f215a22e1c_054.jpg" data-ngdesc="Start rounding off the corners at the end, by hammering on them at a 45-degree angle." text="Start rounding off the corners at the end, by hammering on them at a 45-degree angle." >}}

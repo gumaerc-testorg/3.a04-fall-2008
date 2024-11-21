@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: b317d232-7cc6-6820-6c4b-6116b31af7bc
 title: pineappletwist2
 uid: 3fe28c9d-87c0-6332-a588-9bb4ced5aa36
+weight: 100
 ---
-
 {{< image-gallery id="3fe28c9d-87c0-6332-a588-9bb4ced5aa36_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="1e3b9d7808430e79704da76ea9cb22cb_112.jpg" data-ngdesc="Finally, the middle section is heated and twisted halfway back towards its original position." text="Finally, the middle section is heated and twisted halfway back towards its original position." >}}
 {{< image-gallery-item href="47896a25aaf66488ea60511d0ff4ba59_113.jpg" data-ngdesc="The finished twist." text="The finished twist." >}}

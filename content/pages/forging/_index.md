@@ -4,10 +4,11 @@ description: This section provides an introduction to orient students to the for
   space, equipment, safety, and basic blacksmithing techniques used in the course.
 learning_resource_types: []
 ocw_type: CourseSection
+show_section_pages: true
 title: Forging
 uid: 445d1649-30e4-ad45-780d-dfab67887820
+weight: 10
 ---
-
 {{< anchor "top" >}}{{< /anchor >}}[The Fire](#fire)  
 [The Anvil](#anvil)  
 [The Hammer](#hammer)  

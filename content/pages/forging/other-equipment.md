@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: 445d1649-30e4-ad45-780d-dfab67887820
 title: Other Equipment
 uid: 0361eb72-9d34-dbbf-676e-b5d6ea34713a
+weight: 90
 ---
-
 {{< image-gallery id="0361eb72-9d34-dbbf-676e-b5d6ea34713a_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="7f2074255d5510e28cb8ff3a23bddb28_037.jpg" data-ngdesc="Tongs and/or leather gloves help grip small workpieces." text="Tongs and/or leather gloves help grip small workpieces." >}}
 {{< image-gallery-item href="b6fad3d91583d25659dc1c2423f02c51_038.jpg" data-ngdesc="To put twists in square or bar stock, heat the piece in the area to be twisted, then brace it in a press. Apply the S-curve above the heated area and twist evenly but quickly. Stop when the metal is noticeably cooled." text="To put twists in square or bar stock, heat the piece in the area to be twisted, then brace it in a press. Apply the S-curve above the heated area and twist evenly but quickly. Stop when the metal is noticeably cooled." >}}

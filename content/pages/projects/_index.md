@@ -4,10 +4,11 @@ description: This section provides guidelines and tools for the course projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
+show_section_pages: true
 title: Projects
 uid: b317d232-7cc6-6820-6c4b-6116b31af7bc
+weight: 10
 ---
-
 {{< anchor "top" >}}{{< /anchor >}}[Bottle Opener](#opener)  
 [Three-Legged Table](#table)  
 [Metal Rose](#rose)  

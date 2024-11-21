@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: 445d1649-30e4-ad45-780d-dfab67887820
 title: Anvil2
 uid: 98eda954-c184-9130-9f7e-b84e8ec53815
+weight: 30
 ---
-
 {{< image-gallery id="98eda954-c184-9130-9f7e-b84e8ec53815_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="879a7ce78d67fec32089f19778f24161_008.jpg" data-ngdesc="For forming a curve in two dimensions at once, this form is useful." text="For forming a curve in two dimensions at once, this form is useful." >}}
 {{< image-gallery-item href="9039d45062954400f8f5efafe9e5e8cd_009.jpg" data-ngdesc="A hardy (cut off tool) is helpful for making notches or cutting off a piece." text="A hardy (cut off tool) is helpful for making notches or cutting off a piece." >}}

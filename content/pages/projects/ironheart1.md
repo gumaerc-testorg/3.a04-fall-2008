@@ -9,8 +9,8 @@ parent_type: CourseSection
 parent_uid: b317d232-7cc6-6820-6c4b-6116b31af7bc
 title: ironheart1
 uid: 8e8739f1-b528-b4a0-2770-4e6a5c4d0cc9
+weight: 120
 ---
-
 {{< image-gallery id="8e8739f1-b528-b4a0-2770-4e6a5c4d0cc9_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item href="3a5993177b340c0b34392838a6fade55_120.jpg" data-ngdesc="The inner point of the heart needs to be wide enough for the twisted bar to pass through." text="The inner point of the heart needs to be wide enough for the twisted bar to pass through." >}}
 {{< image-gallery-item href="4504491def41819a7844d0e721038d6d_121.jpg" data-ngdesc="Testing the fit." text="Testing the fit." >}}
