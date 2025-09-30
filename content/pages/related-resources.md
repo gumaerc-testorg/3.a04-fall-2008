@@ -20,6 +20,6 @@ Texts
 Websites
 --------
 
-[Anvilfire](http://anvilfire.com/) - includes illustrated walkthroughs of project workshops in the iForge section, among many other resources.
+{{% resource_link "777c2f83-e679-421c-9dd9-0ac5a9fff506" "Anvilfire" %}} - includes illustrated walkthroughs of project workshops in the iForge section, among many other resources.
 
-[Artist Blacksmith's Association of North America](http://www.abana.org/)
+{{% resource_link "c3c350e5-c02f-4e02-a4f2-67c2ebcf4a91" "Artist Blacksmith's Association of North America" %}}
